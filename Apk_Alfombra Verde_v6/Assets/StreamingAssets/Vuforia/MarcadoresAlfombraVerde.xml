@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="12-PoloPolo" size="300.000000 300.000000" />
+    <ImageTarget name="11-TeoGonzalez" size="300.000000 300.000000" />
+    <ImageTarget name="10-RobertoPlasencia" size="300.000000 300.000000" />
+    <ImageTarget name="09-AlejandroTorresLanda" size="300.000000 300.000000" />
+    <ImageTarget name="08-PepilloOrigel" size="300.000000 300.000000" />
+    <ImageTarget name="07-LuciaMendez" size="300.000000 300.000000" />
+    <ImageTarget name="06-AlexaGarcia" size="300.000000 300.000000" />
+    <ImageTarget name="02-KikinFonseca" size="300.000000 300.000000" />
+    <ImageTarget name="05-JuanBustos" size="300.000000 300.000000" />
+    <ImageTarget name="04-JoseBustos" size="300.000000 300.000000" />
+    <ImageTarget name="03-RafaelSanchez" size="300.000000 300.000000" />
+    <ImageTarget name="IMG-20190126-WA0029" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
